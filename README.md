@@ -12,3 +12,4 @@ BJTU CITEL ACM 参考解法
 ## Java 版本
 - [A+B 示例](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q001/Main.java)
 - [绕圆圈](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q002/Main.java)
+- [互素](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q003/Main.java)

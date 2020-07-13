@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author Inter Horse
- * @date 2020-07-12
+ * @date 2020-07-13
  * <p>
  * <p>
  * 连续数的和

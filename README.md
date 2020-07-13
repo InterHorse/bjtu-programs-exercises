@@ -14,3 +14,4 @@ BJTU CITEL ACM 参考解法
 - [绕圆圈](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q002/Main.java)
 - [互素](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q003/Main.java)
 - [连续数的和](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q004/Main.java)
+- [魔法](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q005/Main.java)

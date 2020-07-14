@@ -21,3 +21,6 @@ BJTU CITEL ACM 参考解法
 
 ## C 版本
 ### Inter Horse
+- [A+B 示例](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/c/interhorse/Q001.c)
+- [懒羊羊的作业](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/c/interhorse/Q009.c)
+

@@ -18,3 +18,6 @@ BJTU CITEL ACM 参考解法
 - [魔法](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q005/Main.java)
 - [calfcamel的2333](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q006/Main.java)
 - [Infinity的mRNA](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q007/Main.java)
+
+## C 版本
+### Inter Horse

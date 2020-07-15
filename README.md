@@ -1,5 +1,5 @@
-# bjtu-citel-acm
-BJTU CITEL ACM 参考解法
+# bjtu-programs-exercises
+2020 BJTU 高级软件开发课程习题参考解法
 
 # 版本
 

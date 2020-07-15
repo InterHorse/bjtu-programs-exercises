@@ -27,5 +27,6 @@
 - [A+B 示例](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q001.c)
 - [求和](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q008.c)
 - [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q009.c)
+- [最大的数](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q011.c)
 
 

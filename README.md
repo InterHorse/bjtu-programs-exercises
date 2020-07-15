@@ -12,18 +12,19 @@ BJTU CITEL ACM 参考解法
 # 题目索引
 ## Java 版本
 ### Inter Horse
-- [A+B 示例](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q001/Main.java)
-- [绕圆圈](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q002/Main.java)
-- [互素](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q003/Main.java)
-- [连续数的和](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q004/Main.java)
-- [魔法](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q005/Main.java)
-- [calfcamel的2333](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q006/Main.java)
-- [Infinity的mRNA](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q007/Main.java)
-- [懒羊羊的作业](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/java/src/cn/interhorse/Q009/Main.java)
+- [A+B 示例](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q001/Main.java)
+- [绕圆圈](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q002/Main.java)
+- [互素](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q003/Main.java)
+- [连续数的和](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q004/Main.java)
+- [魔法](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q005/Main.java)
+- [calfcamel的2333](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q006/Main.java)
+- [Infinity的mRNA](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q007/Main.java)
+- [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q009/Main.java)
 
 ## C 版本
 ### Inter Horse
-- [A+B 示例](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/c/interhorse/Q001.c)
-- [求和](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/c/interhorse/Q008.c)
-- [懒羊羊的作业](https://github.com/bjtu-acm/bjtu-citel-acm/blob/master/c/interhorse/Q009.c)
+- [A+B 示例](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q001.c)
+- [求和](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q008.c)
+- [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q009.c)
+
 

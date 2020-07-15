@@ -20,6 +20,7 @@ BJTU CITEL ACM 参考解法
 - [calfcamel的2333](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q006/Main.java)
 - [Infinity的mRNA](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q007/Main.java)
 - [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q009/Main.java)
+- [Infinity的棋盘密码](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q010/Main.java)
 
 ## C 版本
 ### Inter Horse

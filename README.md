@@ -31,6 +31,7 @@
 - Q11 - [最大的数](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q011.c)
 - Q15 - [世纪难题](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q015.c)
 - Q16 - [小A的卡片](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q016.c)
+- Q16 - [求位数](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q017.c)
 - Q22 - [Cube](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q022.c)
 
 

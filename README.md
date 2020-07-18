@@ -33,6 +33,7 @@
 - Q16 - [小A的卡片](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q016.c)
 - Q18 - [求位数](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q018.c)
 - Q20 - [选课](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q020.c)
+- Q21 - [郁金香](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q021.c)
 - Q22 - [Cube](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q022.c)
 
 

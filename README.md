@@ -37,5 +37,6 @@
 - Q21 - [郁金香](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q021.c)
 - Q22 - [Cube](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q022.c)
 - Q24 - [十字架](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q024.c)
+- Q25 - [懒羊羊吃青草](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q025.c)
 
 

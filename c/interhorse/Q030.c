@@ -39,7 +39,7 @@ int main() {
     for (int i = 0; i < t; i++) {
         scanf("%d %d %d", &n, &m, &d);
         // 记录行李
-        int packageArr[1000] = {0};
+        int packageArr[n];
         // 记录快递信息
         int expressArr[m][2];
         // 行李总和
@@ -52,7 +52,7 @@ int main() {
             scanf("%d %d", &expressArr[j][0], &expressArr[j][1]);
         }
         // 背包问题，不考虑价格。最大子集。动态规划。
-        int table[1001][1001];
+        int table[n + 1][d + 1];
         for (int j = 0; j <= d; j++) {
             table[0][j] = 0;
         }

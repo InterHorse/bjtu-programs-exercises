@@ -22,7 +22,7 @@
 - Q9 - [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q009/Main.java)
 - Q10 - [Infinity的棋盘密码](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q010/Main.java)
 - Q12 - [找朋友](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q012/Main.java)
-- Q23 - [找朋友](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q023/Main.java)
+- Q23 - [Infinity的卡牌](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q023/Main.java)
 
 ## C 版本
 ### Inter Horse

@@ -39,6 +39,6 @@
 - Q24 - [十字架](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q024.c)
 - Q25 - [懒羊羊吃青草](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q025.c)
 - Q26 - [小明的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q026.c)
-- Q30 - [开学](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q030.c)
+- Q31 - [开学](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q031.c)
 
 

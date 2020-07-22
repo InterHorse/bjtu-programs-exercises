@@ -53,7 +53,7 @@ public class Main {
         for (int i = 0; i < t; i++) {
             n = cin.nextInt();
             k = cin.nextInt();
-            int arr[] = new int[n];
+            int[] arr = new int[n];
             arr[0] = cin.nextInt();
             List<Integer> numList = new ArrayList<>(16);
             for (int j = 1; j < n; j++) {

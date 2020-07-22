@@ -34,6 +34,7 @@
 - Q14 - [Tower of Hanoi](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q014.c)
 - Q15 - [世纪难题](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q015.c)
 - Q16 - [小A的卡片](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q016.c)
+- Q17 - [数学难题](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q017.c)
 - Q18 - [求位数](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q018.c)
 - Q20 - [选课](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q020.c)
 - Q21 - [郁金香](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q021.c)

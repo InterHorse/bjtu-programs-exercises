@@ -19,7 +19,6 @@
 - Q5 - [魔法](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q005/Main.java)
 - Q6 - [calfcamel的2333](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q006/Main.java)
 - Q7 - [Infinity的mRNA](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q007/Main.java)
-- Q9 - [懒羊羊的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q009/Main.java)
 - Q10 - [Infinity的棋盘密码](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q010/Main.java)
 - Q12 - [找朋友](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q012/Main.java)
 - Q12 - [找区间](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q013/Main.java)
@@ -44,5 +43,3 @@
 - Q26 - [小明的作业](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q026.c)
 - Q27 - [弹幕游戏](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q027.c)
 - Q31 - [开学](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/c/interhorse/Q031.c)
-
-

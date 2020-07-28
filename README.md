@@ -23,6 +23,7 @@
 - Q12 - [找朋友](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q012/Main.java)
 - Q12 - [找区间](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q013/Main.java)
 - Q23 - [Infinity的卡牌](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q023/Main.java)
+- Q30 - [A Simple Problem](https://github.com/InterHorse/bjtu-programs-exercises/blob/master/java/src/cn/interhorse/Q030/Main.java)
 
 ## C 版本
 ### Inter Horse
